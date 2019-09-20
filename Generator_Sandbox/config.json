@@ -1,0 +1,31 @@
+{
+  "Note": "This is a configuration file",
+  "Config": {
+    "Titles": [
+      "Sir",
+      "Lord",
+      "Regeant",
+      "Viceroy",
+      "Baron",
+      "Duke",
+      "King",
+      "Hero",
+    ]
+    "Names": [
+      "Romero",
+      "Janus",
+      "Abernathy",
+      "Gillian",
+      "Anderson",
+      "Hollen",
+      "Titus",
+      "Victor"
+    ],
+    "Surnames": [
+      "Umber",
+      "Typhan",
+      "Farcot",
+      "Anders"
+    ]
+  }
+}
