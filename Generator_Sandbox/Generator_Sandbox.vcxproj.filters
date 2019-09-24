@@ -24,7 +24,7 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\..\Libraries\JSON\json.hpp">
+    <ClInclude Include="..\..\..\..\..\..\..\Libraries\JSON\json.hpp">
       <Filter>Resource Files</Filter>
     </ClInclude>
   </ItemGroup>
